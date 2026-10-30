@@ -1,0 +1,14 @@
+# Archivos generados por Maven
+target/
+
+# Configuracion local de VS Code
+.vscode/
+
+# Bases de datos locales
+*.db
+*.db-shm
+*.db-wal
+
+# Archivos temporales
+*.log
+*.tmp
